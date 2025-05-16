@@ -1,6 +1,4 @@
 # NovaX Theme for Eclipse  
-🎨 A sleek, modern and visually balanced color theme for Eclipse IDE  
-By **CipheR_**
 
 NovaX is a dark theme for Eclipse designed for readability, elegance, and focus.  
 It enhances the coding experience with carefully selected colors and optimal contrast.
