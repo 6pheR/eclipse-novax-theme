@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="100001" name="NovaX+ Theme" modified="2025-05-16" author="CipheR_">
+    <!-- Indications -->
+    <searchResultIndication color="#44475a" />
+    <filteredSearchResultIndication color="#44475a" />
+    <occurrenceIndication color="#44475a" underline="true" />
+    <writeOccurrenceIndication color="#44475a" underline="true" />
+    <findScope color="#44475a" />
+    <deletionIndication color="#ffb86c" />
+    <sourceHoverBackground color="#44475a" />
+
+    <!-- Comments -->
+    <singleLineComment color="#6272a4" italic="true" />
+    <multiLineComment color="#6272a4" italic="true" />
+    <commentTaskTag color="#bd93f9" italic="true" underline="true" />
+    <javadoc color="#6272a4" italic="true" />
+    <javadocLink color="#8be9fd" underline="true" />
+    <javadocTag color="#8be9fd" />
+    <javadocKeyword color="#ff79c6" />
+
+    <!-- Syntax -->
+    <class color="#f1fa8c" bold="true" />
+    <interface color="#ffb86c" />
+    <enum color="#bd93f9" />
+    <annotation color="#8be9fd" />
+    <method color="#50fa7b" />
+    <methodDeclaration color="#50fa7b" />
+    <abstractMethod color="#50fa7b" />
+    <inheritedMethod color="#50fa7b" />
+    <staticMethod color="#8be9fd" />
+    <field color="#f8f8f2" />
+    <staticField color="#f8f8f2" />
+    <staticFinalField color="#ff79c6" />
+    <localVariable color="#f8f8f2" />
+    <localVariableDeclaration color="#ff79c6" />
+    <parameterVariable color="#bd93f9" />
+    <typeArgument color="#8be9fd" />
+    <typeParameter color="#ffb86c" />
+    <constant color="#bd93f9" />
+
+    <!-- Literals -->
+    <number color="#bd93f9" />
+    <string color="#f1fa8c" />
+    <keyword color="#ff79c6" bold="true" />
+    <operator color="#ff79c6" />
+    <delimiter color="#f8f8f2" />
+    <bracket color="#f8f8f2" />
+
+    <!-- Deprecated -->
+    <deprecatedMember color="#ffb86c" strikethrough="true" />
+
+    <!-- UI Colors -->
+    <background color="#282a36" />
+    <currentLine color="#44475a" />
+    <foreground color="#f8f8f2" />
+    <lineNumber color="#44475a" />
+    <selectionBackground color="#44475a" />
+    <selectionForeground color="#f8f8f2" />
+</colorTheme>
